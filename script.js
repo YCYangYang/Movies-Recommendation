@@ -148,7 +148,7 @@ function shuffleArray(array) {
 
 
 let prevPageInfo = {
-    type: "random", // "random" or "search"
-    query: "", // search query if the previous page was a search result
-    page: 1, // random movies page number
+    type: "random", 
+    query: "", 
+    page: 1, 
 };
